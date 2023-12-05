@@ -1,6 +1,6 @@
 # SAINT PASCUAL BAYLON PARISH CHURCH
 
-##Gian Paolo D. Briones
+## Gian Paolo D. Briones
 
 *Saint Pascual Baylon* Parish Church
 
@@ -8,4 +8,4 @@
 
 It is located in *Tinambac Camarines Sur*
 
-History of 
+## History of our church
